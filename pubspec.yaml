@@ -1,0 +1,10 @@
+name: gsi_api
+author: Matthew Barbour <sanmadjack@gmail.com>
+description: Rest API server for GameSave.Info
+homepage: http://gamesave.info/
+dependencies:
+  logging: any
+  mongo_dart: any
+  rest_dart:
+    path: ../rest_dart
+  xml: any
