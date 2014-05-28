@@ -13,6 +13,8 @@ void main() {
   
   rest.AddResource(resource);
   
+  rest.AddResource(new GamesResource());
+  
   rest.Start();
   
 }
