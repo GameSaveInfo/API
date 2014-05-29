@@ -11,3 +11,4 @@ import 'package:gsi_api/data/data.dart';
 
 part 'root_resource.dart';
 part 'games_resource.dart';
+part 'import_resource.dart';
