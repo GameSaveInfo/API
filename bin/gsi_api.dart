@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:rest_dart/rest_dart.dart';
+import 'package:rest_server/rest_server.dart';
 
 import 'package:gsi_api/resources/resources.dart';
 

@@ -5,6 +5,6 @@ homepage: http://gamesave.info/
 dependencies:
   logging: any
   mongo_dart: any
-  rest_dart:
-    path: ../rest_dart
+  rest_server:
+    path: ../rest_server
   xml: any
